@@ -1,8 +1,8 @@
 # FollowMeTo
 
-Object Follower using colour-tracking.
+Object Follower using color-detection.
 
-Built using an Atmega-28 Arduino, a Webcam and a servo motor.
+Built using an Atmega-328 Arduino UNO, a Webcam and a Servo motor.
 Dependencies: PySerial and OpenCV 2.
 
 All code is tested and tuned to run on Mac OS X 10.11 and above including Sierra.
